@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jotma\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_RoboHope.851563451.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jotma\Documents\Game-Jam-2018\RoboHope" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="External Asset" t="Include">
+          <e p="Backyard - Free" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="InfiniteGround" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="Script" t="Include">
+              <e p="Ground.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Ground.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Lava_Flowing_Shader" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="ScrollingUVs_Layers.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Diffuse_Lava_Distort.shader" t="Include" />
+              <e p="Unlit_Lava_Distort.shader" t="Include" />
+              <e p="Unlit_Lava_Distort_Transparent.shader" t="Include" />
+              <e p="Unlit_Lava_Simple.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Alien.cs" t="Include" />
+          <e p="Bande.cs" t="Include" />
+          <e p="CameraFollowPlayer.cs" t="Include" />
+          <e p="ChangeScene.cs" t="Include" />
+          <e p="DeadzoneCamera.cs" t="Include" />
+          <e p="DialogueManager.cs" t="Include" />
+          <e p="FinalSceneManager.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="InitialSceneManager.cs" t="Include" />
+          <e p="InputManager.cs" t="Include" />
+          <e p="Laser.cs" t="Include" />
+          <e p="Packet.cs" t="Include" />
+          <e p="RobotManager.cs" t="Include" />
+          <e p="RoverFinal.cs" t="Include" />
+          <e p="SaveSpawnPointTrigger.cs" t="Include" />
+          <e p="shootManager.cs" t="Include" />
+          <e p="ShowMessageTrigger.cs" t="Include" />
+          <e p="windSoundChange.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RoboHope.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
